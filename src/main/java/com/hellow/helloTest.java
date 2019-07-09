@@ -19,7 +19,7 @@ public class helloTest {
 
            }
         }
-        System.out.println(sumMax);
-        System.out.println(max);
+        System.out.println(max+"最多,有"+sumMax+"个");
+
     }
 }
