@@ -21,5 +21,6 @@ public class helloTest {
         }
         System.out.println(max+"最多,有"+sumMax+"个");
         //hmh到此一游
+        //桑达闪光灯就奥数
     }
 }
