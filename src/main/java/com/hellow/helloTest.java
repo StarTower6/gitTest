@@ -20,7 +20,7 @@ public class helloTest {
            }
         }
         System.out.println(max+"最多,有"+sumMax+"个");
-        //hmh到此一游;Test
+        //hmh到此一游;
         System.out.println("hmh");
     }
 }
